@@ -25,6 +25,7 @@
             "path": "packs/waterdeep-dragon-heist-steves-scenes.db",
             "entity": "Scene"
         },
+		{
             "name": "theros-steves-scenes",
             "label": "Theros - Steve's Scenes",
             "path": "packs/theros-steves-scenes.db",
@@ -37,6 +38,6 @@
             "entity": "Scene"
 		}
     ],
-    "manifest": "",
-    "download": ""
+    "manifest": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/module.json",
+    "download": "https://github.com/Portacustos1/steves-scenes/releases/latest/download/steves-scenes.zip"
   }
