@@ -2,7 +2,7 @@
     "name": "steves-scenes",
     "title": "Steve's Scenes",
     "description": "A collection of my scenes, by Steve.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "Steven Robinson",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.7",
@@ -23,6 +23,11 @@
             "name": "waterdeep-dragon-heist-steves-scenes",
             "label": "Waterdeep: Dragon Heist - Steve's Scenes",
             "path": "packs/waterdeep-dragon-heist-steves-scenes.db",
+            "entity": "Scene"
+        },
+            "name": "theros-steves-scenes",
+            "label": "Theros - Steve's Scenes",
+            "path": "packs/theros-steves-scenes.db",
             "entity": "Scene"
         },
 		{
