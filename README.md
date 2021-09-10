@@ -7,6 +7,11 @@ Scenes are in seperate compendiums for each campaign setting where appropriate. 
 
 * Out of the Abyss
   * Araj/Tower of Vengeance
+* Waterdeep: Dragon Heist
+  * Theatre
+  * Blue Alley
+* Theros Setting
+  * Volcano Temple
 * Ravenloft Setting
   * House of Lament
 * Vaesen System
