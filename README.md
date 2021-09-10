@@ -1,6 +1,11 @@
 # Steve's Scenes
 A collection of scenes for Foundry VTT for various settings
 
+## Installation Manifest URL
+1. Go to the setup page and choose Add-on Modules.
+2. Click the Install Module button, and paste in this manifest link: https://github.com/Portacustos1/steves-scenes/releases/latest/download/module.json
+3. Enable the module in your Worlds
+
 ## Maps Included
 
 Scenes are in seperate compendiums for each campaign setting where appropriate. Below are maps included so far:
