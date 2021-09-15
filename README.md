@@ -12,8 +12,10 @@ Scenes are in seperate compendiums for each campaign setting where appropriate. 
 
 * Out of the Abyss
   * Araj/Tower of Vengeance
+  * Vast Oblivium
 * Waterdeep: Dragon Heist
-  * Theatre
+  * Theatre (Winter Variant)
+  * Mistshore (Winter Variant)
   * Blue Alley
 * Theros Setting
   * Volcano Temple
