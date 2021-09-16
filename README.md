@@ -1,5 +1,7 @@
 # Steve's Scenes
-A collection of scenes for Foundry VTT for various settings
+A collection of scenes for Foundry VTT for various settings. 
+
+My first memories of playing D&D were in older campaigns like Curse of Strahd where all the maps were beautifully drawn by great artists like Mike Schley. In any publications now, they have what I consider poorly-drawn black & white line maps, which I feel really takes away from the players' experiences. That's where we come in and try to improve upon those maps provided, giving fully detailed & colour maps to help with player immersion. We also take those maps and create pre-made scenes on Foundry with walls to make life simpler for GMs, so all you need to do is add the players and NPCs, so you have less to worrry about as a GM.
 
 Want to join the community or make suggestions? Join us over on discord - https://discord.gg/sBMVJDjpyx
 
