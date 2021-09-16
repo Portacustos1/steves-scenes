@@ -1,6 +1,8 @@
 # Steve's Scenes
 A collection of scenes for Foundry VTT for various settings
 
+Want to join the community or make suggestions? Join us over on discord - https://discord.gg/sBMVJDjpyx
+
 ## Installation Manifest URL
 1. Go to the setup page and choose Add-on Modules.
 2. Click the Install Module button, and paste in this manifest link: https://github.com/Portacustos1/steves-scenes/releases/latest/download/module.json
