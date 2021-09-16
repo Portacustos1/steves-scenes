@@ -18,6 +18,7 @@ Scenes are in seperate compendiums for each campaign setting where appropriate. 
 * Waterdeep: Dragon Heist
   * Theatre (Winter Variant)
   * Mistshore (Winter Variant)
+  * Old Tower (Winter Variant)
   * Blue Alley
 * Theros Setting
   * Volcano Temple
