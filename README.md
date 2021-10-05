@@ -26,6 +26,10 @@ Scenes are in seperate compendiums for each campaign setting where appropriate. 
   * Volcano Temple
 * Ravenloft Setting
   * House of Lament
+* Wild Beyond the Witchlight
+  * Bottom of The Queen's Way
+  * Inn at the End of the Road (Low Water)
+  * Inn at the End of the Road (High Water)
 * Vaesen System
   * Witch Cat Inn
 
