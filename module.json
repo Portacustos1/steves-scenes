@@ -37,6 +37,12 @@
             "path": "packs/out-of-the-abyss-steves-scenes.db",
             "entity": "Scene"
 		}
+		{
+            "name": "witchlight-steves-scenes",
+            "label": "Wild Beyond the Witchlight - Steve's Scenes",
+            "path": "packs/witchlight-steves-scenes.db",
+            "entity": "Scene"
+		}
     ],
     "manifest": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/module.json",
     "download": "https://www.dropbox.com/s/gq3agjslm3zimkw/steves-scenes.zip?dl=1"
