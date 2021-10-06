@@ -46,6 +46,8 @@ I have started making these maps as I feel players deserve more than the line ma
 
 ## Credits
 
+Working with Vertigo#1813 for implimentation of Levels
+
 Maps include assets made by [Forgotten Adventurs](https://www.patreon.com/forgottenadventures/) and [Tom Cartos](https://www.patreon.com/tomcartos/). Both are excellent content creators who I would recommend backing on Patreon
 
 My content is released in accordance with WOTC's [fan content policy](https://company.wizards.com/en/legal/fancontentpolicy)
