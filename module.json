@@ -45,7 +45,7 @@
 		}
     ],
     "manifest": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/module.json",
-    "download": "https://www.dropbox.com/s/gq3agjslm3zimkw/steves-scenes.zip?dl=1"
+    "download": "https://www.dropbox.com/s/gq3agjslm3zimkw/steves-scenes.zip?dl=1",
 	"dependencies": [
         {
             "name": "levels"
