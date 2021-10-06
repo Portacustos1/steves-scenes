@@ -2,10 +2,10 @@
     "name": "steves-scenes",
     "title": "Steve's Scenes",
     "description": "A collection of my scenes, by Steve.",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "author": "Steven Robinson",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "0.8.7",
+    "compatibleCoreVersion": "0.8.9",
     "packs": [
         {
             "name": "steves-scenes-house-of-lament",
@@ -45,19 +45,5 @@
 		}
     ],
     "manifest": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/module.json",
-    "download": "https://www.dropbox.com/s/gq3agjslm3zimkw/steves-scenes.zip?dl=1",
-	"dependencies": [
-        {
-            "name": "levels"
-        },
-		{
-            "name": "betterroofs"
-        },
-        {
-            "name": "lib-wrapper"
-        },
-        {
-            "name": "wall-height"
-        }
-    ]
+    "download": "https://www.dropbox.com/s/gq3agjslm3zimkw/steves-scenes.zip?dl=1"
   }
