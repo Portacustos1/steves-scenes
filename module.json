@@ -2,7 +2,7 @@
     "name": "steves-scenes",
     "title": "Steve's Scenes",
     "description": "A collection of my scenes, by Steve.",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "author": "Steven Robinson",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
@@ -44,6 +44,20 @@
             "entity": "Scene"
 		}
     ],
+	"dependencies": [
+        {
+            "name": "levels"
+        },
+		{
+            "name": "betterroofs"
+        },
+        {
+            "name": "lib-wrapper"
+        },
+        {
+            "name": "wall-height"
+        }	
+	],
     "manifest": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/module.json",
     "download": "https://www.dropbox.com/s/gq3agjslm3zimkw/steves-scenes.zip?dl=1"
   }
