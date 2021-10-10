@@ -10,6 +10,9 @@ Want to join the community or make suggestions? Join us over on discord - https:
 2. Click the Install Module button, and paste in this manifest link: https://github.com/Portacustos1/steves-scenes/releases/latest/download/module.json
 3. Enable the module in your Worlds
 
+## Support us on Patreon
+If you want to have an input of what maps are worked on next, get early access to Module releases, make commisions of maps, or just generous enough to support us in our work, hop on over to our [Patreon](https://www.patreon.com/stevesscenes) account! The maps and modules are free regardless, but why wait for the free updates, or sit hoping we get to the map you're itching to run? 
+
 ## Maps Included
 
 Scenes are in seperate compendiums for each campaign setting where appropriate. Below are maps included so far:
