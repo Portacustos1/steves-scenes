@@ -2,7 +2,7 @@
     "name": "steves-scenes",
     "title": "Steve's Scenes",
     "description": "A collection of my scenes, by Steve.",
-    "version": "1.0.12",
+    "version": "1.0.14",
     "author": "Steven Robinson",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.9",
@@ -10,37 +10,37 @@
         {
             "name": "steves-scenes-house-of-lament",
             "label": "House of Lament - Steve's Scenes",
-            "path": "packs/house-of-lament-steves-scenes.db",
+            "path": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/packs/house-of-lament-steves-scenes.db",
             "entity": "Scene"
         },
 		{
             "name": "vaesen-steves-scenes",
             "label": "Vaesen - Steve's Scenes",
-            "path": "packs/vaesen-steves-scenes.db",
+            "path": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/packs/vaesen-steves-scenes.db",
             "entity": "Scene"
         },
 		{
             "name": "waterdeep-dragon-heist-steves-scenes",
             "label": "Waterdeep: Dragon Heist - Steve's Scenes",
-            "path": "packs/waterdeep-dragon-heist-steves-scenes.db",
+            "path": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/packs/waterdeep-dragon-heist-steves-scenes.db",
             "entity": "Scene"
         },
 		{
             "name": "theros-steves-scenes",
             "label": "Theros - Steve's Scenes",
-            "path": "packs/theros-steves-scenes.db",
+            "path": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/packs/theros-steves-scenes.db",
             "entity": "Scene"
         },
 		{
             "name": "out-of-the-abyss-steves-scenes",
             "label": "Out of the Abyss - Steve's Scenes",
-            "path": "packs/out-of-the-abyss-steves-scenes.db",
+            "path": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/packs/out-of-the-abyss-steves-scenes.db",
             "entity": "Scene"
 		},
 		{
             "name": "witchlight-steves-scenes",
             "label": "Wild Beyond the Witchlight - Steve's Scenes",
-            "path": "packs/witchlight-steves-scenes.db",
+            "path": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/packs/witchlight-steves-scenes.db",
             "entity": "Scene"
 		}
     ],
@@ -59,5 +59,5 @@
         }	
 	],
     "manifest": "https://raw.githubusercontent.com/Portacustos1/steves-scenes/main/module.json",
-    "download": "https://www.dropbox.com/s/gq3agjslm3zimkw/steves-scenes.zip?dl=1"
+    "download": "https://github.com/Portacustos1/steves-scenes/releases/latest/download/module.json"
   }
