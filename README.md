@@ -33,8 +33,12 @@ Scenes are in seperate compendiums for each campaign setting where appropriate. 
   * Bottom of The Queen's Way
   * Inn at the End of the Road (Low Water)
   * Inn at the End of the Road (High Water)
+  * O-Wells (Gushing)
+  * O-Wells (Non-gushing)
+  * Slanty Tower
 * Vaesen System
   * Witch Cat Inn
+  * Witch Cat In (Levels enabled)
 
 ## Recommended Modules
 
